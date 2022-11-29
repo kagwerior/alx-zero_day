@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-echo #!/bin/bash > alX
-ALX School is so cool!
-=======
-echo #!/bin/bash > alx
+echo #!/bin/bash 
 Alx school
 >>>>>>> origin/update_script
